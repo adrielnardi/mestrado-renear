@@ -2,6 +2,8 @@
 ##### Professor: Francisco de Assis Boldt
 ##### Disciplina: Redes Neurais Artificiais
 
+------
+
 Implemente uma Rede Neural rasa para classificação de uma base multiclasse.
 
 Esta rede deve:
